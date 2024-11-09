@@ -1,6 +1,5 @@
 from typing import Dict, List
 from pytest import raises
-from src.drivers.numpy_handler import NumpyHandler
 from .calculator_3 import Calculator3
 
 class MockRequest:
